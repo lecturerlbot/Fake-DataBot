@@ -2,7 +2,7 @@
 
 require_once __DIR__ . "/config.php";
 ////////BENCHAMIN LOUIS//////
-//CHANNEL:- T.ME/INDUSBOTS////
+//CHANNEL:- T.ME/URLMagneticUploder////
 error_reporting(0);
 
 set_time_limit(0);
