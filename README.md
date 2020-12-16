@@ -20,11 +20,6 @@ AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook
 
 ``/start - To Generate Random Data``
 
-## HELP ME
-
-For any type of help on deploy. Contact us on [INDUS CHATS](https://t.me/induschats).
-
-
 ##
 
 **DO GIVE A STAR TO MY PROJECT TO SHOW YOUR SUPPORT!!**
